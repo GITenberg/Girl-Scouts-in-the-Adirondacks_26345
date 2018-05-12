@@ -1,0 +1,31 @@
+_repo: Girl-Scouts-in-the-Adirondacks_26345
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26345-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roy, Lillian Elizabeth
+    alias: Roy, Lillian Elizabeth Becker
+    birthdate: 1868
+    deathdate: 1932
+    gutenberg_agent_id: '1910'
+    url: http://www.gutenberg.org/2009/agents/1910
+description: ''
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26345'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (State) -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Girl Scouts -- Juvenile fiction'
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcsh 'Canoes and canoeing -- Juvenile fiction'
+- !lcsh 'Adirondack Mountains (N.Y.) -- Juvenile fiction'
+title: Girl Scouts in the Adirondacks
+url: http://www.gutenberg.org/ebooks/26345
